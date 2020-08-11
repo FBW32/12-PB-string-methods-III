@@ -4,14 +4,6 @@
 # Programming Basics: string methods
  
 
-0.  Find the first occurrence of the letter "a" in a string, starting the search at position 17.
-
-1. Check if a string includes "righT".
-
-2. Extract 'who' word from the text.
-
-3. Extract only the last character.
-
 1. Declare a variable with the value of "Hello World". Covert the value to upper case and print the converted value to the console.
 
 2. Declare another variable with the value of "Hello Earthling". Convert the value to lower case and print the converted value to the console.
